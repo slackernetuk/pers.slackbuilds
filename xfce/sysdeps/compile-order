@@ -1,0 +1,24 @@
+python3				(SBo)
+ninja				(SBo)
+meson				(SBo)
+pcre
+glib2
+gdk-pixbuf2
+gobject-introspection
+cairo
+graphite2
+harfbuzz
+freetype
+fontconfig
+pango
+libepoxy
+atk
+libxkbcommon			(SBo)
+at-spi2-core
+at-spi2-atk
+six				(SBo)
+vala				(SBo)
+libgusb				(SBo)
+colord
+gtk+3
+
