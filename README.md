@@ -1,1 +1,1 @@
-# slackbuilds for Slackware ( current ) 
+# slackbuilds for Slackware ( 14.2 ) 
