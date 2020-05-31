@@ -35,3 +35,8 @@ libopenraw			(SBo)
 ffmpeg				(SBo)
 ffmpegthumbnailer		(SBo)
 vte3
+libuv
+cmake
+json-glib			(SBo)
+cogl
+clutter
